@@ -1,14 +1,13 @@
 {
-    "CloudAssignedTenantId":  "ed425802-1186-44de-8823-a4a57d140a28",
-    "CloudAssignedDeviceName":  "Z-%SERIAL%",
-    "Version":  2049,
-    "Comment_CloudAssignedOobeConfig":  "0x7FFFFFFF",
-    "Comment_Version":  "0x801",
-    "Comment_File":  "Profile AutoPilot",
-    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"CloudAssignedTenantDomain\":\"zander.ch\"}}",
-    "CloudAssignedOobeConfig":  30,
-    "CloudAssignedDomainJoinMethod":  0,
-    "ZtdCorrelationId":  "7F9E6025-1E13-45F3-BF82-A3E8C5B59EAC",
-    "CloudAssignedLockdownConfig":  1,
-    "CloudAssignedTenantDomain":  "zander.ch"
+  "CloudAssignedTenantId": "7955e1b3-cbad-49eb-9a84-e14aed7f3400",
+  "CloudAssignedDeviceName": "NT-%SERIAL%",
+  "CloudAssignedForcedEnrollment": 1,
+  "Version": 2049,
+  "Comment_File": "Offline Autopilot Profile Nicolonsky Tech AAD",
+  "CloudAssignedAadServerData": "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"nicolasuter.ch\"}}",
+  "CloudAssignedDomainJoinMethod": 0,
+  "CloudAssignedOobeConfig": 284,
+  "ZtdCorrelationId": "09ecf84e-51d9-48b0-b700-f8bdc98ae3a6",
+  "CloudAssignedTenantDomain": "nicolasuter.ch",
+  "CloudAssignedLanguage": "os-default"
 }
